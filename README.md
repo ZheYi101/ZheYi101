@@ -8,13 +8,7 @@
 
 ### 🧑‍💻 Used Languages 
 
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge)
-
-![Java](https://img.shields.io/badge/Java-ae784d?style=for-the-badge)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge)
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 

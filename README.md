@@ -9,7 +9,7 @@
 ### 🧑‍💻 Used Languages 
 ![Vue](https://img.shields.io/badge/Vue-1c8139?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ecf0fc?style=for-the-badge&logoColor=black)
-!(Scss)(https://img.shields.io/badge/Scss-f05459?style=for-the-badge&logoColor=black)
+![Scss](https://img.shields.io/badge/Scss-f05459?style=for-the-badge&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---

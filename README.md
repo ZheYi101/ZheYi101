@@ -2,7 +2,7 @@
 
 ### ℹ️ Status 
 
-![Status](https://github-readme-stats.vercel.app/api?username=ZheYi101i&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZheYi101&layout=compact&hide_border=true)
+![Status](https://github-readme-stats.vercel.app/api?username=ZheYi101&show_icons=true&include_all_commits=true&hide_border=true)
 
 ---
 

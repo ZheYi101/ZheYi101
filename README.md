@@ -2,7 +2,7 @@
 
 ### ℹ️ Status 
 
-![Status](https://github-readme-stats.vercel.app/api?username=ZheYi101&show_icons=true&include_all_commits=true&hide_border=true)
+![Status](https://github-readme-stats-touchczy.vercel.app/api?icon_color=333&hide_border=true&title_color=333&username=ZheYi101&show_icons=true&include_all_commits=true&number_format=long)
 
 ---
 
